@@ -1,0 +1,5 @@
+﻿comando de publicación (normal)
+    dotnet publish -c Release -r win-x64
+
+comando de publicacion (extra trim)	
+	dotnet warp -l Aggressive --verbose
